@@ -89,5 +89,5 @@ Get data
 
 Additional Resources
 GitHub Repository: [Link to your GitHub repository with the code and configurations](https://github.com/jamallasomasekhar/flask-app-deploy-in-kubernetes.git)
-Video Tutorial: Link to a helpful video tutorial on Helm and Kubernetes
+Video Tutorial: [Link to a helpful video tutorial on Helm and Kubernetes](https://drive.google.com/file/d/18sRHO8p2d9TKY3n2VB1P6VqAnRiIvI4F/view?usp=sharing)
 
