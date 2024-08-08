@@ -88,6 +88,6 @@ Get data
 ![image](https://github.com/user-attachments/assets/bd9de048-bb92-4511-bec5-de93e37e73d0)
 
 Additional Resources
-GitHub Repository: Link to your GitHub repository with the code and configurations
+GitHub Repository: [Link to your GitHub repository with the code and configurations](https://github.com/jamallasomasekhar/flask-app-deploy-in-kubernetes.git)
 Video Tutorial: Link to a helpful video tutorial on Helm and Kubernetes
 
